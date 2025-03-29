@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArthurXGit
+- 👋 Hi, I’m @ArthurXGit aka Tarunkumar
 - 👀 I’m interested in coding, book reading and computer related stuff.
 - 😄 Exploring, learning, and building—documenting my journey here.
 <!---
