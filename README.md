@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ArthurXGit
 - 👀 I’m interested in coding, book reading and computer related stuff.
-- 🌱 I'll upload what I am learning and my personal projects here.
 - 😄 Exploring, learning, and building—documenting my journey here.
 <!---
 ArthurXGit/ArthurXGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
